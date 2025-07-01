@@ -46,5 +46,26 @@ The **UI** of Second Brain is built with flexibility in mind, allowing users to 
 
 ---
 
+## 📸 Screenshots
+
+Here’s a quick peek at how the app looks:
+
+### 🧳 **SignUp and Signin Page**
+![SignUp and Signin Page](https://github.com/PankajShaw-B/SecondBrain/blob/main/Screenshot1.png?raw=true)
+
+### 🧠 **Home Interface**
+![Home Interface](https://github.com/PankajShaw-B/SecondBrain/blob/main/Screenshot2.png?raw=true)
+
+### 🧳 **Add New Card – Modal Interface**
+![Add New Card – Modal Interface](https://github.com/PankajShaw-B/SecondBrain/blob/main/Screenshot3.png?raw=true)
 
 
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/PankajShaw-B/SecondBrain.git
+   cd SecondBrain
